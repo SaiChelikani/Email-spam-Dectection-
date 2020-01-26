@@ -10,6 +10,9 @@ stemming : process of getting the root word .
 
 stop words: which has no importance to sentennce (excluding the stop words)
 
+Creating document matrix
+ - intializing CountVectorizer
+
 Importing Machine learning libraies - ski-kit learn 
 using the Navie bayes classifier buliding the model.
 
